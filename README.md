@@ -6,3 +6,5 @@ sudo apt install myapp
 
 ## Версия
 Текущая версия: 1.2
+## Лицензия
+MIT License
